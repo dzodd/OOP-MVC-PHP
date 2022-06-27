@@ -58,7 +58,7 @@
               <div class="card-body">
               
                  
-                  <input type="text" value="<?php echo $EditProduct->ProductImage ?>" name="product-image" class="form-control"  >
+                  <input type="text" value="<?php echo $EditProduct->ProductImage ?>" name="product-image" class="form-control" hidden >
                 <div class="form-group">
                   <label for="exampleInputEmail1">Name Product</label>
                   <input type="text" value="<?php echo $EditProduct->ProductName ?>" name="product-name" class="form-control" placeholder="Enter name product">
