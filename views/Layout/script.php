@@ -35,7 +35,7 @@
       "lengthChange": false,
       "searching": true,
       "ordering": true,
-      "info": false,
+      "info": true,
       "autoWidth": true,
       "responsive": true,
     });
