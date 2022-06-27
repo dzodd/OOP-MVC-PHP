@@ -97,10 +97,10 @@
 
   <!-- ./wrapper -->
   <footer class="main-footer">
-    <strong>Lê Hải Dương</a>.</strong>
-    Test Intern PhP
+    <strong>Lê Hải Dương</strong>
+    <b>Test Intern PhP</b>
     <div class="float-right d-none d-sm-inline-block">
-      <b></b> 3.2.0
+      <b></b> 
     </div>
   </footer>
 

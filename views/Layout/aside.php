@@ -1,7 +1,7 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
       <!-- Brand Logo -->
       <a href="?c=product" class="brand-link">
-        <img src="https://lampart-vn.com/wp-content/uploads/2019/12/logo.png" alt="AdminLTE Logo" height="25" width="130">
+        <img src="https://lampart-vn.com/wp-content/uploads/2019/12/logo.png" alt="Lampart Logo" height="25" width="130">
 
       </a>
 

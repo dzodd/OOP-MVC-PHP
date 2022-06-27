@@ -14,7 +14,7 @@
     if (window.___browserSync___ === undefined && Number(localStorage.getItem('AdminLTE:Demo:MessageShowed')) < Date.now()) {
       localStorage.setItem('AdminLTE:Demo:MessageShowed', (Date.now()) + (15 * 60 * 1000))
       // eslint-disable-next-line no-alert
-      alert('Đây là trang web demo nên sẽ có một số chức năng không hoạt động.", \nThis is a demo site so some functions will not work. !')
+      alert('Đây là trang web demo nên sẽ có một số chức năng không hoạt động. !", \nThis is a demo site so some functions will not work !')
     } 
   }, 1000)
 
